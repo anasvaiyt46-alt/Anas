@@ -1,23 +1,25 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NICKNAME) nrtopup 
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Anas
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
+https://t.me/freeincame1m
 // =======================================================
 var telegram_channel_link = "telegram channel link";
-
+https://t.me/freeincame1m
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINKছাপরিটপআপ
+https://t.me/freeincame1m
 // =======================================================
 var telegram_group_link = "telegram group link";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINKhttps://youtube.com/channel/UC6hu7hA2hXNKV21pk5V8O4Q?si=_fpikG5LfuqsXlD3
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
-
+https://youtube.com/channel/UC6hu7hA2hXNKV21pk5V8O4Q?si=_fpikG5LfuqsXlD3
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
