@@ -104,5 +104,7 @@
       ]
     }
   },
-  "texts": null
+  "texts": {
+    "siteName": "Nr top up"
+  }
 }
